@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/monthly-task-reminder/static/css/main.cecc7e6d.css",
-    "main.js": "/monthly-task-reminder/static/js/main.06ac5bc6.js",
+    "main.js": "/monthly-task-reminder/static/js/main.0f723c6b.js",
     "index.html": "/monthly-task-reminder/index.html",
     "main.cecc7e6d.css.map": "/monthly-task-reminder/static/css/main.cecc7e6d.css.map",
-    "main.06ac5bc6.js.map": "/monthly-task-reminder/static/js/main.06ac5bc6.js.map"
+    "main.0f723c6b.js.map": "/monthly-task-reminder/static/js/main.0f723c6b.js.map"
   },
   "entrypoints": [
     "static/css/main.cecc7e6d.css",
-    "static/js/main.06ac5bc6.js"
+    "static/js/main.0f723c6b.js"
   ]
 }
