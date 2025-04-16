@@ -1,4 +1,4 @@
-const CACHE_NAME = "task-reminder-cache-v2";
+const CACHE_NAME = "task-reminder-cache-v3";
 const BASE_PATH = self.location.pathname.replace(/\/service-worker\.js$/, "/");
 
 const urlsToCache = [
